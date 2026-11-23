@@ -64,4 +64,5 @@ for key,value in keranjang.items() :
 print("c. menampilkan total belanja")
 total = sum(keranjang.values())
 print("apel(Rp5000) + pisang(Rp3000) + jeruk(Rp7000) + anggur(Rp15000)")
+
 print(f"Total harga = {total}")
